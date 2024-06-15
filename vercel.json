@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-blond-zeta.vercel.app/:match*"
+      "destination": "https://neteasecloudmusicapi-zeta.vercel.app/"
     }
   ]
 }
